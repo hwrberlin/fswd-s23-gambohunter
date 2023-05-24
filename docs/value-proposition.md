@@ -3,7 +3,7 @@ title: Value Proposition
 nav_order: 1
 ---
 
-[Frederick Shagalov]
+[Frederick Shagalov, Leo Pilgram]
 {: .label }
 
 # [finance overview]
@@ -13,7 +13,11 @@ nav_order: 1
   <summary>
    
     Table of contents 
-      TEST
+      - Effortless Usage
+      - Clear Overview
+      - user-friendly
+      - designed to simplify finance
+      - comprehensive overview
    
   </summary>
   {: .text-delta }
