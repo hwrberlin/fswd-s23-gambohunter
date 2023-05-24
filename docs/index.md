@@ -3,26 +3,27 @@ title: Home
 nav_order: 0
 ---
 
-# [Project Name]
-[Project description]
+# [Finance Manager]
+[Have an overview into your finances with charts to show optimization with maybe suggestions. ]
 
 ## Team members
 
-### [Jane Dane]
+### [Frederick Shagalov]
 
 About
-: Some info about Jane
+: Frederick Shagalov is in the 4th semester.
 
 Matr.-Nr.
-: 1234567
+: 77211923254
 
-### [Joe Doe]
+### [Leo Pilgram]
 
 About
-: Some info about Joe
+: Leo Pilgram is in the 4th semester.
+
 
 Matr.-Nr.
-: 1234567
+: 77211919585
 
 ## Eidesstattliche Erklärung
 

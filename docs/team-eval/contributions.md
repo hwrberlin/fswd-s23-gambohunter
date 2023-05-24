@@ -19,7 +19,7 @@ nav_order: 4
 {:toc}
 </details>
 
-## [Jane Dane]
+## [Frederick Shagalov]
 
 Contributions
 : Jane's first contribution

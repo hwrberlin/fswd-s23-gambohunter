@@ -4,7 +4,7 @@ parent: Technical Docs
 nav_order: 1
 ---
 
-[Jane Dane]
+[Frederick Shagalov, Leo Pilgram]
 {: .label }
 
 # [App structure, incl. context]
@@ -12,7 +12,14 @@ nav_order: 1
 
 <details open markdown="block">
   <summary>
-    Table of contents
+    Table of contents               
+    
+      - Track expenses
+      - monitor cash flow
+      - set budgets
+      - informative overview
+
+
   </summary>
   {: .text-delta }
 - TOC

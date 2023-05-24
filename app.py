@@ -9,7 +9,7 @@ app.config.from_mapping(
 	DATABASE=os.path.join(app.instance_path, 'todos.sqlite')
 )
 app.cli.add_command(db.init_db)
-app.teardown_appcontext(db.close_db_con)
+app.teardown_appcontext(db.close_db_con) #TEST
 
 @app.route('/')
 def index():
