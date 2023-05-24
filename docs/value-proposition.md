@@ -3,15 +3,17 @@ title: Value Proposition
 nav_order: 1
 ---
 
-[Jane Dane]
+[Frederick Shagalov]
 {: .label }
 
-# [Value proposition]
+# [finance overview]
 {: .no_toc }
 
 <details open markdown="block">
   <summary>
+   
     Table of contents
+  # jkbkjyxcb
   </summary>
   {: .text-delta }
 - TOC
